@@ -1,0 +1,2 @@
+# loyalties
+test game
